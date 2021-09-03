@@ -2,16 +2,16 @@
 
 YTPMVGenerator - fun remix ytpmv generator tune
 
-* Tutorial ytpmv panel Q-1:
+# Tutorial ytpmv panel Q-1:
 
-visual sony vegas be file video (video source mp4) (video source avi) (video source wmv) (sounds wav) (music ytpmv mp3) tune & pitch & remix & arpeggio etc coded am makings too generator ytpmv visual studio 2019
+* visual sony vegas be file video (video source mp4) (video source avi) (video source wmv) (sounds wav) (music ytpmv mp3) tune & pitch & remix & arpeggio etc coded am makings too generator ytpmv visual studio 2019
 is making good night no me yes good morning 12:00
 
-* Tutorial Releases:
+# Tutorial Releases:
 
-vs2019 publish and export 
+* vs2019 publish and export 
 
-* YTPMVG Q-2:
+# YTPMVG Q-2:
 
 Create a new releases Github of uploaded ytpmvg-sonyvegasgen
 
@@ -27,7 +27,7 @@ ytpmvg!!
 
 people ytpmvg hellos people!!
 
-* YTPMVG RUNS ZIP AND EXE Q-3:
+# YTPMVG RUNS ZIP AND EXE Q-3:
 
 for now be sony vegas is dead 
 
@@ -43,10 +43,12 @@ windows 32 bit and 64 bit run by SonyVegasMakerBot.exe
 
 www.ytpmvg.org
 
-* tutorial sony vegas ytpmv bot Q-4:
-welcome ytpmvg 
+# tutorial sony vegas ytpmv bot Q-4:
+WeLcOmE yTpMvG rUn
+Wow people github
+YTPMVGenerator - fun remix ytpmv generator tune
 
-* visual ytpmv panel lists new:
+# visual ytpmv panel lists new:
 
 Add Noise
 Bézier Masking
